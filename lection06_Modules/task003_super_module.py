@@ -1,5 +1,7 @@
 from random import randint
 
+__all__ = ['func', '_secret']
+
 SIZE = 100
 _secret = 'qwerty'
 __top_secret = '1q2w3e4r5t6y'
